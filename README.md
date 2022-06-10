@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/solidjs/solid/main/assets/logo.png" alt="Solid" width="350"/><br>
+## <img src="https://assets.solidjs.com/banner?project=Library&type=core" alt="Solid" width="350"/><br>
 
 [![Build Status](https://github.com/solidjs/solid/workflows/Solid%20CI/badge.svg)](https://github.com/solidjs/solid/actions/workflows/main-ci.yml)
 [![Coverage Status](https://img.shields.io/coveralls/github/solidjs/solid.svg?style=flat)](https://coveralls.io/github/solidjs/solid?branch=main)
@@ -30,7 +30,6 @@ Solid is a declarative JavaScript library for creating user interfaces. It does 
 - Transparent debugging: a `<div>` is just a div.
 
 ### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
-
 
 ## The Gist
 
@@ -119,6 +118,7 @@ For TypeScript remember to set your TSConfig to handle Solid's JSX by:
 - [Comparison with other Libraries](https://github.com/solidjs/solid/blob/main/documentation/comparison.md)
 
 ### Guides
+
 - [Getting Started](https://github.com/solidjs/solid/blob/main/documentation/guides/getting-started.md)
 - [Reactivity](https://github.com/solidjs/solid/blob/main/documentation/guides/reactivity.md)
 - [Rendering](https://github.com/solidjs/solid/blob/main/documentation/guides/rendering.md)
@@ -129,6 +129,7 @@ For TypeScript remember to set your TSConfig to handle Solid's JSX by:
 - [Examples](https://github.com/solidjs/solid/blob/main/documentation/resources/examples.md)
 - [Articles](https://github.com/solidjs/solid/blob/main/documentation/resources/articles.md)
 - [Projects](https://github.com/solidjs/solid/blob/main/documentation/resources/projects.md)
+
 ## Browser Support
 
 The last 2 versions of modern evergreen browsers and Node LTS.
